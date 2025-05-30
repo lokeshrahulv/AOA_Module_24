@@ -26,8 +26,8 @@ When passing through a path cell containing a cherry, you pick it up, and the ce
 To implement the program for Cherry pickup problem.
 
 
-Developed by: ASHWIN KUMAR S
-Register Number: 212222240013
+Developed by:  LOKESH RAHUL V V
+Register Number: 212222100024
 */
 ```
 ```
